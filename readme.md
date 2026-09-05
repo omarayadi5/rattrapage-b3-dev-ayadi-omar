@@ -6,7 +6,6 @@ API de gestion de tâches (Django + DRF, JWT) avec un client TypeScript (Vite).
 
 - Frontend : https://rattrapage-b3-dev-ayadi-omar.vercel.app
 - API : https://rattrapage-b3-dev-ayadi-omar.onrender.com/api/
-- Admin : https://rattrapage-b3-dev-ayadi-omar.onrender.com/admin/
 
 Backend hébergé sur Render (plan gratuit), premier appel après inactivité un peu lent (30-50s).
 
